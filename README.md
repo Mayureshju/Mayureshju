@@ -11,11 +11,7 @@ I am Mayuresh Juvekar, a passionate Full Stack Developer with hands-on experienc
 - ☁️ Cloud enthusiast with experience in AWS.
 
 ## Skills
-- 💻 TypeScript | JavaScript | HTML | CSS
-- 🚀 React.js | Next.js
-- 🛠️ Node.js
-- 🎨 Tailwind CSS
-- ☁️ AWS
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
 
 ## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mayuresh%20Juvekar-blue)](https://www.linkedin.com/in/mayureshjuvekar/)
